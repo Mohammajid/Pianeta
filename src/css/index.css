@@ -14,7 +14,7 @@ body {
 }
 
 div#header {
-  background-color: #14213dff;
+  background-color: red;
   min-height: 250px;
   line-height: 250px;
 }
