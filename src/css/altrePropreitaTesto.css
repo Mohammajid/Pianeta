@@ -1,0 +1,65 @@
+.grassetto{
+    /* font-weight:lighter; */
+    /* font-weight:700; --> valori da 100 a 900 */
+    font-weight:bold;
+}
+
+u{
+    /* text-decoration: none; questo toglie quella sottolineatura che ho messo nella parola sbagliata(inginiere) */
+    /* text-decoration-style: wavy;
+    text-decoration-color: aqua; */
+    text-decoration: underline;
+    text-decoration-color: red;
+
+}
+.underlined{
+    text-decoration: underline;
+    text-decoration-color: aqua;
+}
+
+div.shaddow{
+    text-shadow: -3px 3px 2px;
+}
+.trasforma{
+    text-transform:uppercase;
+    /* text-transform: capitalize; */
+    /* text-transform: none; */
+}
+
+.trasforma:hover{
+    text-transform: none;
+}
+.maiuscoletto{
+    font-variant: small-caps;
+}
+
+div.allineamento{
+    width: 60%;
+    max-width: 600px;
+    border: 2px solid black;
+    text-align: center;
+    /* text-align: right; */
+    /* text-align: justify; */
+    margin: 0 auto; /*si applica solo quando l'elemento è più piccolo della pagina*/
+    
+
+}
+div.sub_container{
+    width: 50%;
+    background-color: rgb(255, 72, 0);
+    min-height: 200px;
+    margin: 0 auto;
+    line-height:200px ; /*--> questo mett al centro il testo casuale*/
+
+}
+p{
+    text-align: left;
+    line-height: 1.4;
+}
+
+div.gestisci_spazi{
+    /* white-space: nowrap; */
+    width: 150px;
+    border: solid;
+    overflow: hidden;
+}

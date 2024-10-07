@@ -1,0 +1,16 @@
+body{
+    height: 800px;
+    background-color: yellow;
+}
+
+div{
+    background-color: aqua;
+    color: blue;
+    /* width: 50%; */
+    max-width: 700px;
+    min-width: 200px;
+    min-height: 500px;
+}
+div div{
+    background-color: red;
+}

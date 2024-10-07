@@ -1,0 +1,15 @@
+ul li{
+   /* list-style-type: square; /* qui cambia quel punto in un circhio(circle) o in squar. ci sono tanti altri tipi che lo puoi andare a prednere nel sito list style */
+    padding: 10px;
+    list-style-image:url("../../assets/img/icons8-turtle-100.png")
+    
+}
+ul{
+    padding-left: 100px;
+    
+    
+}
+
+ol li{
+    list-style-type:lower-roman; /*decimal, roman, latin ecc(togli i : dopo type e ti esce la lista)*/
+}

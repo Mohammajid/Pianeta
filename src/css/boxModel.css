@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box ;
+}
+
+
+div{
+    background-color: red;
+    /* margin: 10px 20px 15px 25px; */
+    /* margin: 5%; */
+    width: 500px;
+    margin: 10px 40px;
+    margin-bottom: 0;
+
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 10px;
+    /* border: 10px solid green; */
+    border: 10px ridge black;
+    
+}
+div + div{
+    background-color: yellow;
+}

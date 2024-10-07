@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+
+}
+
+div{
+    border: 5px solid black;
+    margin: 5px;
+    /* display: none; */
+    /*display none fa sparire */
+
+}
+div:first-of-type{
+    /* display: none; */
+    /*questo fa sparire il primo diplay e non il secondo, ma non la cancella */
+    /* visibility: hidden; */
+}

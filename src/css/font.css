@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: 'miss_fajardoseregular';
+    src: url('../../assets/fonts/Miss_Fajardose_Font/');
+    src: url('../../assets/fonts/Miss_Fajardose_Font/?#iefix') format('embedded-opentype'),
+         url('../../assets/fonts/Miss_Fajardose_Font/missfajardose-regular-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/Miss_Fajardose_Font/missfajardose-regular-webfont.woff') format('woff'),
+         url('../../assets/fonts/Miss_Fajardose_Font/missfajardose-regular-webfont.ttf') format('truetype'),
+         url('../../assets/fonts/Miss_Fajardose_Font/missfajardose-regular-webfont.svg#miss_fajardoseregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+body{
+    font-family: "miss_fajardoseregular", fantasy; 
+}

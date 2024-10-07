@@ -1,0 +1,19 @@
+div{
+    /* background-color: lavender; */
+    /* background-color: rgb(19, 68, 96); */
+    /* background-color: rgba(255, 255, 10); */
+    /* background-color: #FF5555; */
+    /* background-color: hsl(55, 80%, 50%);  */
+    /* background-color: hsla(55, 80%, 50%, 0.5); questo gli da un tocco di opacità! */
+}
+
+body{
+    background-color: green;
+}
+
+/* 01.....9 A B C D E F 
+10 11 12 13 14 15 16 17 18 19 1A 1B 1C .....1F 20
+.....
+
+ESEMPIO IL NUMERO 255 è FF
+SI CHIAMA SCHEMA ESADECIMALE! */

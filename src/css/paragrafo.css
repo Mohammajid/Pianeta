@@ -1,0 +1,13 @@
+/* span{
+    
+    display: block;
+    background-color: aquamarine;
+    width: 300px;
+} */
+
+span{
+    display: inline-block;
+    background-color: blueviolet;
+    width: 300px;
+    margin: 5px;
+} /* qui non sono più messi in un blocco ma sono affiancati
